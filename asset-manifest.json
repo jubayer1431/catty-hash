@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/catty-hash/static/css/main.be5239cc.chunk.css",
-    "main.js": "/catty-hash/static/js/main.83f75010.chunk.js",
-    "main.js.map": "/catty-hash/static/js/main.83f75010.chunk.js.map",
+    "main.js": "/catty-hash/static/js/main.acfad493.chunk.js",
+    "main.js.map": "/catty-hash/static/js/main.acfad493.chunk.js.map",
     "runtime-main.js": "/catty-hash/static/js/runtime-main.8a4ab4cc.js",
     "runtime-main.js.map": "/catty-hash/static/js/runtime-main.8a4ab4cc.js.map",
     "static/js/2.560023a2.chunk.js": "/catty-hash/static/js/2.560023a2.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8a4ab4cc.js",
     "static/js/2.560023a2.chunk.js",
     "static/css/main.be5239cc.chunk.css",
-    "static/js/main.83f75010.chunk.js"
+    "static/js/main.acfad493.chunk.js"
   ]
 }
